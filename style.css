@@ -1,0 +1,59 @@
+body
+{
+    padding: 0;
+    margin: 0;
+    font-family: 'Quicksand', sans-serif;
+    background-color: #f5f5f5;
+}
+.b,.btn{font-weight: bold;}
+.p05,th,td,.p05-child>div,.btn{padding: 0.5rem;}
+.m05{margin: 0.5rem;}
+.bk{display: block;}
+.nd{text-decoration: none;}
+.c{text-align: center;}
+
+/*-colors start-----*/
+
+.white{color: #FFF;}
+.black{color: #000;}
+
+
+/*-colors end-----*/
+
+/*----background colors Start---------- */
+
+.b-amber{background-color:#ffa000;}
+.b-blue{background-color: rgb(119, 0, 255);}
+.b-green{background-color: #29cf00;}
+.b-white{background-color: #FFF;}
+.b-red{background-color: #FF0000;}
+.b-
+
+
+/*----background colors End---------- */
+
+/*--------BOX------------------*/
+.con{width: 100%;box-sizing: border-box;}
+.border,td,th{border: 1px solid #e1e1e1;}
+.round,.btn{border-radius: 0.5rem;}
+.round-top{border-radius: 0.5rem 0.5rem 0 0;}
+.shadow,.btn{box-shadow: 0 0 8px #d3d3d3;}
+
+
+/*--------BOX END-----------------*/
+
+
+/*--------POSTS------------------*/
+.thumb>div{padding: 0.3rem 0.5rem;font-size: 0.8rem;}
+
+
+
+
+
+/*--------POSTS END-----------------*/
+/*---Table-----------*/
+table{border-collapse: collapse;}
+.xscroll{overflow-x: auto;}
+
+.btn,.in-bk{display: inline-block;}
+.btn{padding: 0.5rem 1rem;}
